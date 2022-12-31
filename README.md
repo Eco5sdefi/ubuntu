@@ -1,4 +1,6 @@
-# theme-ubuntu README
+![image_text](https://github.com/GrJuan/extension-theme-ubuntu/blob/master/icons/img.png)
+
+# Extension theme ubuntu for vscode
 
 ## Working with Markdown
 
