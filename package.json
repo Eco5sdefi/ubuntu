@@ -1,0 +1,32 @@
+{
+  "name": "theme-ubuntu",
+  "displayName": "Theme Ubuntu",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "theme ubuntu",
+        "uiTheme": "vs-dark",
+        "path": "./themes/theme ubuntu-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icons/icon.png",
+  "author": {
+    "name": "Juan Manuel Garcia M",
+    "email": "garciajuanm2408@gmail.com",
+    "url": "https://github.com/GrJuan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GrJuan/extension-theme-vscode"
+  },
+  "publisher": "GrJuan"
+}
