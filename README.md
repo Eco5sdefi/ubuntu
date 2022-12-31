@@ -1,4 +1,4 @@
-![image_text](./icons/img.png)
+![Getting Started](/icons/img.png)
 
 # Extension theme ubuntu for vscode
 
