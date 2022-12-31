@@ -1,4 +1,4 @@
-![Getting Started](/icons/img.png)
+![Getting Started](https://github.com/GrJuan/extension-theme-ubuntu/blob/9324009836049563acd7602c3ea1d44dfa21e2c5/icons/img.png?raw=true)
 
 # Extension theme ubuntu for vscode
 
