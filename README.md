@@ -1,6 +1,6 @@
 # Ubuntu-Inspired VSCode Theme
 
-![banner](https://github.com/GrJuan/extension-theme-ubuntu/blob/3fa0fdc108197609dfec1d2232486691f4aad74e/icons/banner.png)
+![banner](https://github.com/GrJuan/extension-theme-ubuntu/blob/3fa0fdc108197609dfec1d2232486691f4aad74e/icons/banner.png?raw=true)
 
 Welcome to the Ubuntu-Inspired VSCode Theme, a Visual Studio Code theme that mimics the iconic Ubuntu design and color scheme. With a mix of orange, purple and other dark tones, this theme will immerse you in the familiar atmosphere of Ubuntu while you dedicate yourself to your code.
 
