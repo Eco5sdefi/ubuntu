@@ -2,7 +2,7 @@
   "name": "theme-ubuntu",
   "displayName": "Theme Ubuntu",
   "description": "Theme with the appearance of ubuntu dark",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "engines": {
     "vscode": "^1.74.0"
   },
